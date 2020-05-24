@@ -1,0 +1,29 @@
+.title
+{
+    font-size: xx-large;
+}
+.instructions
+{
+    font-style: italic;
+}
+.form
+{
+    padding-left: 30px;
+}
+.results
+{
+    padding-left: 30px;
+}
+.sectionHeading
+{
+    font-size: larger;
+    font-style: bold;
+    padding-top: 20px;
+}
+.sectionSubHeading
+{
+    font-size: large; 
+    font-style: bold;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
